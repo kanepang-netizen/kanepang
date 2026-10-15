@@ -1,0 +1,12 @@
+{
+  "name": "kane-wedding-invitation",
+  "version": "1.0.0",
+  "description": "스마트폰 모바일 웨딩 청첩장 웹페이지",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["wedding", "invitation", "mobile"],
+  "author": "Antigravity",
+  "license": "ISC"
+}
